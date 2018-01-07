@@ -1,0 +1,11 @@
+[Protocol]
+exec=biidcoin-qt '%u'
+protocol=biidcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

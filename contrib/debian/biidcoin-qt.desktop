@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=biidcoin
+Comment=biidcoin P2P Cryptocurrency
+Comment[fr]=biidcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=biidcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/biidcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/biidcoin;
+Categories=Office;

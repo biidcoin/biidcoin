@@ -1,0 +1,2 @@
+debian/bin/biidcoind usr/bin
+src/biidcoind usr/lib/biidcoin
